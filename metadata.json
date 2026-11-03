@@ -1,0 +1,6 @@
+{
+  "name": "AWM Nexus - Human Pentest Tooling Platform",
+  "description": "Unified cyber offensive and defensive operations platform featuring human pentest tooling, ASCL terminal, scope & policy enforcement, sandbox execution, evidence hashing, and cryptographic audit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
